@@ -1,19 +1,23 @@
 # README
 
-Créé par Charles Di Giampietro (@Charl sur Slack)
+<h1>The Hacking Project - Semaine 4 - Mercredi</h1>
 
-Premier d'une longue série, ce rpo contient l'app Blog faite avec Rails
+<h2>Projet : Rails du blog</h2>
 
-En gros, j'ai créé les tables demandées, rentré des fake données grâce à la gem Faker
+<p>Edité par 
+	<ul>
+		<li>🤩 <strong>Jack TAN</strong>🤔</li>
+	
+	</ul></p>
 
-Si tu as bien installé la gem table_print, tu peux aller voir à quoi ressemblent mes tables dans la console.
+	<p>Ce programme a été fait avec rails.
 
-Explication step by step:
-tape rails console
-dans la console, tape tp le_nom_de_la_table.all
+Il utilise toutes les gems de RAILS par défaut, plus celle :
+			<ul>
+				<li>Gem 'table_print'</li>
+				<li> Gem 'faker'</li>
+			</ul></p>
 
-et voila !
+</p>
 
-(pour voir le nom des tables, checke le nom des classes dans le dossier app/modes)
 
-bisous.
